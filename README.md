@@ -3,7 +3,7 @@
 This project demonstrates various machine learning techniques using the Wisconsin Breast Cancer dataset. The analysis includes data cleaning, Exploratory Data Analysis (EDA), feature engineering, and the implementation of several machine learning models for cancer prediction. The model could serve as a useful tool for supporting medical diagnosis.
 
 ## Dataset
-The Wisconsin Breast Cancer dataset contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The features describe characteristics of the cell nuclei present in the image. The target variable classifies tumors as either malignant or benign. 
+The Wisconsin Breast Cancer dataset contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The features describe characteristics of the cell nuclei present in the image. The target variable classifies tumors as either malignant or benign. The dataset can be found on https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
 ## Analysis Overview
 The project covered:
