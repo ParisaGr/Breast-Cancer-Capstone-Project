@@ -10,6 +10,8 @@ The purpose of this system is to predict whether a breast tumor is Benign (non-c
 - Concavity - how deep these indentations are
 - Area - the total size of the cell clusters
 
+This model can help with early detection of a potentially cancerous tumor.  It can also act as a "second opinion" to help doctors make more accurate and speedy diagnoses with consistency.
+
 ## Dataset
 The Wisconsin Breast Cancer dataset contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The features describe characteristics of the cell nuclei present in the image. The target variable classifies tumors as either malignant or benign. The dataset can be found on https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
